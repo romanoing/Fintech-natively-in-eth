@@ -1,0 +1,56 @@
+BI-COMP e CABI: i sistemi di pagamenti al dettaglio
+La Banca d'Italia gestisce il sistema di compensazione multilaterale BI-Comp  che regolamenta in moneta di banca centrale   (depositi a vista detenuti presso la banca centrale dalle banche) tutti i pagamenti interbancari delle controparti che detengono il conto corrente presso BankItalia
+Il sistema di compensazione multilaterale prevede:
+•	Tutti i partecipanti scambiano informazioni in merito alle posizioni di credto/debito al fine di determinare la posizione netta di ciascuno nei confronti degli altri
+•	I saldi sono calcolati su base multilaterale. Ad ogni banca corrisponde quindi un unico saldo
+•	La liquidità scambiata si riduce, riducendo di conseguenza i rischi e i costi delle operazioni
+•	Rilevazioni più snelle
+•	Prevede la presenza di due soggetti:
+o	Automated Clearing House (ACH) che si occupa di processare le informazioni relative ai pagamenti, quindi  calcolare i saldi multilaterali che comunica all’agente di regolamento ( o settlement agent)  affinchè proceda alla fase di regolamento.
+o	Agente di regolamento  ( o settlement agent)  che gestisce e, ad intervalli regolari prefissati, addebita/accredita i conti  degli aderenti sulla base delle informazioni che derivano dal processo di compensazione multilaterale
+•	Esiste il settlement lag
+
+Con questo metodo di pagamento   vengono compensate operazioni quali: bonifici, addebiti diretti, pagamenti effettuati con carte di debito e assegni, i cui saldi sono inviati per il regolamento in TARGET2.
+La Banca d'Italia gestisce tale sistema con il fine di favorire l'efficienza, l'innovazione nel campo dei pagamenti al dettaglio e la sicurezza del regolamento, intervenendo nella fase di compensazione multilaterale e gestendo in via esclusiva le stanze di compensazione di Roma e Milano per lo scambio degli assegni.
+In BI-Comp i pagamenti vengono compensati nell'ambito di sei cicli giornalieri, di cui uno notturno. Alla fine di ciascun ciclo, BI-Comp determina per ogni aderente un saldo multilaterale a debito o a credito che invia al regolamento in moneta di banca centrale sui conti detenuti dagli intermediari in TARGET2  ( sistema di pagamento all’ingrosso dell’area euro) . 
+Le attività che precedono la compensazione multilaterale dei pagamenti elettronici sono svolte da soggetti che operano in regime di libera concorrenza (gestori di sistemi di clearing). L'utilizzo di BI-Comp da parte degli operatori che vi aderiscono è soggetto al pagamento di tariffe, i cui importi sono calcolati applicando il principio del recupero dei costi previsto dall'Eurosistema.
+Per promuovere l'integrazione del mercato unico dei pagamenti al dettaglio in euro, BI-Comp tratta i pagamenti paneuropei ovvero i bonifici (SEPA Credit Transfer - SCT), i cd. bonifici "istantanei" (SEPA Instant Credit Transfer - SCT Inst) e gli addebiti diretti (SEPA Direct Debit - SDD, Core e B2B). Inoltre, la Banca d'Italia offre ai partecipanti a BI-Comp il servizio di interoperabilità, che consente l'esecuzione di pagamenti con i partecipanti ad altre infrastrutture europee senza la necessità di aderirvi ed evitando così oneri aggiuntivi. 
+L'interoperabilità è stata realizzata secondo schemi di colloquio ispirati al modello EACHA (European Automated Clearing House Association, di cui la Banca d'Italia è membro). BI-Comp, insieme a Nexi S.p.A. quale gestore di sistema di clearing Nexi ACH, è attualmente connesso con il sistema tedesco-olandese Equens, il sistema Clearing Service International (CS.I) gestito dalla banca centrale austriaca e il sistema paneuropeo STEP2, al quale partecipano le principali banche europee. In alternativa all'interoperabilità, la Banca offre ai partecipanti a BI-Comp il servizio di tramitazione, che consente di regolare pagamenti con i soggetti raggiungibili nel sistema STEP2 tramite la Banca d'Italia stessa.
+Il Centro Applicativo della Banca d'Italia (CABI) è l'infrastruttura che consente di gestire in autonomia, senza dover ricorrere a sistemi di clearing esterni, le attività di scambio (cd. attività di clearing) dei pagamenti effettuati in formato SCT propri e di pertinenza della Pubblica amministrazione. Tramite CABI i pagamenti sono indirizzati verso le banche nazionali ed estere, purché aderenti ai sistemi di pagamento al dettaglio interoperabili con BI-Comp o al sistema STEP2.
+CABI è stato realizzato, da un lato, per assicurare l'efficiente gestione dei pagamenti al dettaglio e, dall'altro, per adeguare l'infrastruttura della Banca alla SEPA al fine di promuovere la migrazione della comunità bancaria e della Pubblica amministrazione agli strumenti paneuropei.
+
+
+Glossario
+Mandato informatico
+Titolo di spesa dematerializzato emesso da Amministrazioni dello Stato aderenti ad un sistema informativo integrato, i cui dati dispositivi pervengono per via telematica alla Banca d’Italia, in qualità di istituto incaricato del servizio di tesoreria, per il pagamento della somma al creditore.
+
+
+Meccanismi europei di cambio II
+(Exchange rate mechanism II; vedi: Accordi europei di cambio II)
+
+
+Moneta
+Gli aggregati monetari dell’area dell’euro comprendono:
+•	M1: circolante e depositi in conto corrente
+•	M2: M1, depositi con durata prestabilita fino a due anni, depositi rimborsabili con preavviso fino a tre mesi
+•	M3: M2, pronti contro termine, quote di fondi comuni monetari e obbligazioni con scadenza originaria fino a due anni. A partire dai dati di giugno 2010 sono escluse le operazioni pronti contro termine con controparti centrali.
+I contributi nazionali agli aggregati monetari M1, M2 e M3 sono calcolati escludendo il circolante, poiché, con l’introduzione dell’euro, non è più direttamente misurabile la quantità di banconote e di monete effettivamente detenuta in ciascun paese.
+
+Moneta di banca centrale
+Nell'esercizio della politica monetaria, la banca centrale emette proprie passività che assumono la forma sia del circolante, composto da banconote e monete metalliche, sia dei depositi a vista detenuti presso la banca centrale dagli istituti finanziari, in particolare dalle banche. Il regolamento di una transazione avviene "in moneta di banca centrale" quando i conti delle controparti coinvolte sono detenuti presso le rispettive banche centrali.
+
+Moneta di banca commerciale
+Oltre che dalla banche centrali, la moneta può essere creata anche dalle banche commerciali attraverso l'emissione di proprie passività utilizzate come moneta dai propri clienti. Questa moneta è creata quindi ogni volta che una banca commerciale eroga un prestito e assume la forma dei depositi bancari. Il regolamento di una transazione avviene "in moneta di banca commerciale" quando i conti delle controparti coinvolte sono detenuti presso banche commerciali.
+Moneta elettronica
+Valore monetario memorizzato elettronicamente, ivi inclusa la memorizzazione magnetica, rappresentato da un credito nei confronti dell’emittente che sia emesso, dietro ricevimento di fondi, per effettuare operazioni di pagamento e che sia accettato da persone fisiche o giuridiche diverse dall’emittente. Può essere emessa da banche, Istituti di moneta elettronica (Imel), Poste Italiane e, nel rispetto delle disposizioni ad esse applicabili, dalle pubbliche amministrazioni centrali, regionali e locali. Per le sue caratteristiche può essere considerato uno strumento di pagamento alternativo al contante. Le somme ricevute dall’Imel a fronte della moneta elettronica emessa non costituiscono depositi della clientela; su di esse, pertanto, non sono corrisposti interessi e le stesse non sono coperte dai sistemi di garanzia dei depositi. Ulteriore caratteristica della moneta elettronica è il riconoscimento al detentore del diritto al rimborso della parte di essa non utilizzata. Il rimborso deve essere effettuato al valore nominale in moneta legale ovvero mediante versamento su un conto bancario, senza applicazione di ulteriori oneri e spese, fatta eccezione per quelli strettamente necessari per l’effettuazione dell’operazione.
+Sistema di clearing
+Sistema caratterizzato da meccanismi di funzionamento formali e standardizzati e da regole comuni, volti a consentire ai partecipanti di eseguire lo scambio delle informazioni di pagamento.
+Sistema di compensazione
+Insieme delle infrastrutture, delle procedure tecnico-operative e delle norme giuridiche che consente ai partecipanti di scambiarsi e compensare le reciproche ragioni di debito e credito, provvedendo al regolamento dei soli saldi finali a chiusura del ciclo operativo. I saldi possono essere calcolati su base bilaterale (cioè nei confronti di ciascuna controparte) o su base multilaterale (nei confronti del sistema nel suo complesso).
+Sistema europeo di banche centrali (SEBC)
+Il SEBC è composto dalla BCE e dalle banche centrali nazionali dei 28 Stati membri dell’Unione europea (vedi Unione europea), ossia comprende, oltre ai membri dell’Eurosistema (vedi Eurosistema), anche le Banche centrali nazionali degli Stati membri che non hanno introdotto l’euro nella terza fase della UEM (vedi Unione economica e monetaria).
+Il SEBC è governato dal Consiglio direttivo e dal Comitato esecutivo della BCE, nonché dal Consiglio generale, in quanto terzo organo decisionale della BCE. Il funzionamento di questi organi è regolato dal Trattato CE, dallo Statuto del SEBC/BCE e dai rispettivi regolamenti interni
+Sistema per la trasmissione telematica di dati (Sitrad)
+È una infrastruttura telematica che consente la trasmissione tra i partecipanti dei dati e dei flussi informativi connessi con l'esecuzione di operazioni bancarie e finanziarie. Sitrad si basa sull'utilizzo di infrastrutture tecnologiche di rete e standard di colloquio condivisi, nonché sull'operatività di centri applicativi che svolgono funzioni di elaborazione. Il sistema è disciplinato dalla Convenzione per la partecipazione al sistema per la trasmissione telematica di dati approvata dal comitato direttivo della Convenzione interbancaria per l'automazione (CIPA), dalle deliberazioni assunte dalla CIPA e dai regolamenti emanati dall'ABI e da Bancomat spa.
+
+
